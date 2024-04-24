@@ -1,0 +1,78 @@
+/* Styles généraux pour le corps de la page */
+body
+{
+	background-color: white; /* Fond blanc */
+	color: rgb(0, 0, 0); /* Texte blanc (invisible sur fond blanc) */
+}
+
+/* Styles pour la barre de navigation */
+.navbar
+{
+	background-color: #011c39; /* Fond de la barre de navigation */
+}
+
+.navbar-brand
+{
+	color: #ffffff; /* Couleur du texte du logo de la barre de navigation */
+}
+
+.navbar-brand img
+{
+	width: 40px; /* Taille du logo */
+	margin-right: 10px; /* Marge à droite du logo */
+}
+
+.navbar-nav .nav-link
+{
+	color: white; /* Couleur du texte des liens dans la barre de navigation */
+}
+
+.navbar-nav .nav-link:hover
+{
+	color: #ff9500; /* Couleur du texte des liens au survol de la souris */
+}
+/* Styles pour le pied de page */
+footer
+{
+	background-color: #011c39; /* Fond du pied de page */
+	color: white; /* Couleur du texte du pied de page */
+	padding: 25px 0; /* Espacement interne du pied de page */
+	position: absolute; /* Positionnement absolu en bas de la page */
+	bottom: 0; /* Alignement en bas de la page */
+	width: 100%; /* Largeur maximale */
+}
+
+/* Styles pour les icônes des réseaux sociaux */
+.insta
+{
+	margin-top: -43px;
+	margin-left: 55px;
+}
+
+.wathapp
+{
+	margin-top: -44px;
+	margin-left: 112px;
+}
+
+.reseaux
+{
+	margin-top: 15px;
+	filter: invert(0.9); /* Inversion de la couleur des icônes */
+}
+
+.footer-logo
+{
+	width: 40px; /* Taille des logos des réseaux sociaux */
+}
+
+
+
+/* Styles pour le pied de page */
+footer
+{
+	background-color: #011c39; /* Fond du pied de page */
+	color: white; /* Couleur du texte du pied de page */
+	padding: 10px 0; /* Réduction de la taille de l'espacement interne */
+}
+

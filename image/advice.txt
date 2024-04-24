@@ -1,0 +1,3 @@
+- vérifer que une salle soit libre si elle sont ID n'est pas présent dans réservation.
+- Créer une table Etat : Valide / Annule / Provisoire
+→ ajouter à reservation champ Etat (défaut null)

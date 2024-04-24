@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Généré le : Wed 13 Mar 2024 à 13:42-->
+<reservations>
+  <reservation id_reserv="3">
+    <periode>Soir</periode>
+    <salle_nom>Salle de restauration</salle_nom>
+    <date>2023-06-09 00:00:00</date>
+    <structure>Fives Nordon</structure>
+    <idEtat>1</idEtat>
+    <etat>Valide</etat>
+  </reservation>
+  <reservation id_reserv="9">
+    <periode>Midi</periode>
+    <salle_nom>Salle de restauration</salle_nom>
+    <date>2024-11-14 00:00:00</date>
+    <structure>Association Sportive Nancy Lorraine (ASNL)</structure>
+    <idEtat>1</idEtat>
+    <etat>Valide</etat>
+  </reservation>
+  <reservation id_reserv="6">
+    <periode>Midi</periode>
+    <salle_nom>Longwy</salle_nom>
+    <date>2023-06-07 00:00:00</date>
+    <structure>Ligue escrime Lorraine</structure>
+    <idEtat>1</idEtat>
+    <etat>Valide</etat>
+  </reservation>
+  <reservation id_reserv="5">
+    <periode>Midi</periode>
+    <salle_nom>Longwy</salle_nom>
+    <date>2026-03-01 00:00:00</date>
+    <structure>Lycée public Frederic Chopin</structure>
+    <idEtat>1</idEtat>
+    <etat>Valide</etat>
+  </reservation>
+  <reservation id_reserv="10">
+    <periode>Soir</periode>
+    <salle_nom>Salle informatique</salle_nom>
+    <date>2024-03-14 00:00:00</date>
+    <structure>Association Sportive Nancy Lorraine (ASNL)</structure>
+    <idEtat>2</idEtat>
+    <etat>Provisoire</etat>
+  </reservation>
+  <reservation id_reserv="2">
+    <periode>Midi</periode>
+    <salle_nom>Multimédia</salle_nom>
+    <date>2023-06-09 00:00:00</date>
+    <structure>Fives Nordon</structure>
+    <idEtat>2</idEtat>
+    <etat>Provisoire</etat>
+  </reservation>
+  <reservation id_reserv="1">
+    <periode>Matin</periode>
+    <salle_nom>Amphithéâtre</salle_nom>
+    <date>2023-06-06 00:00:00</date>
+    <structure>Ligue escrime Lorraine</structure>
+    <idEtat>2</idEtat>
+    <etat>Provisoire</etat>
+  </reservation>
+  <reservation id_reserv="8">
+    <periode>Midi</periode>
+    <salle_nom>Lamour</salle_nom>
+    <date>2024-11-17 00:00:00</date>
+    <structure>Ligue escrime Lorraine</structure>
+    <idEtat>3</idEtat>
+    <etat>Annule</etat>
+  </reservation>
+  <reservation id_reserv="7">
+    <periode>Midi</periode>
+    <salle_nom>Longwy</salle_nom>
+    <date>2012-05-10 00:00:00</date>
+    <structure>Ligue Volley Ball Lorraine</structure>
+    <idEtat>3</idEtat>
+    <etat>Annule</etat>
+  </reservation>
+  <reservation id_reserv="4">
+    <periode>Midi</periode>
+    <salle_nom>Longwy</salle_nom>
+    <date>2023-06-07 00:00:00</date>
+    <structure>FFT- COMITE DEPARTEMENTAL DE TENNIS DE MOSELLE </structure>
+    <idEtat>3</idEtat>
+    <etat>Annule</etat>
+  </reservation>
+</reservations>

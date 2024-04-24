@@ -1,0 +1,47 @@
+#form_reservSalle {
+    margin: 0 auto; /* Pour centrer l'élément horizontalement */
+    margin-top: 50px;
+    max-width: 500px; /* Largeur maximale de l'élément */
+    padding: 20px; /* Espacement intérieur de l'élément */
+    color: white;
+    background-color: #011c39;
+        border: 1px solid #ddd; /* Bordure */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre portée */
+}
+
+#form_reservSalle h3 {
+    text-align: center; /* Centrer le titre */
+    margin-bottom: 20px; /* Espacement sous le titre */
+}
+
+#green_btn {
+    display: block; /* Afficher le bouton en bloc */
+    width: 100%; /* Largeur pleine */
+    padding: 10px; /* Espacement interne du bouton */
+    margin-top: 20px; /* Espacement au-dessus du bouton */
+    background-color: #28a745; /* Couleur de fond verte */
+    color: #fff; /* Couleur du texte blanc */
+    border: none; /* Supprimer la bordure */
+    border-radius: 5px; /* Coins arrondis */
+    cursor: pointer; /* Curseur de pointeur au survol */
+}
+
+#green_btn:hover {
+    background-color: #218838; /* Couleur de fond verte plus foncée au survol */
+}
+#red_btn:hover {
+    background-color: #ff0000; /* Couleur de fond verte plus foncée au survol */
+}
+#red_btn {
+    display: block; /* Afficher le bouton en bloc */
+    width: 100%; /* Largeur pleine */
+    padding: 10px; /* Espacement interne du bouton */
+    margin-top: 20px; /* Espacement au-dessus du bouton */
+    background-color: #ff0000; /* Couleur de fond verte */
+    color: #fff; /* Couleur du texte blanc */
+    border: none; /* Supprimer la bordure */
+    border-radius: 5px; /* Coins arrondis */
+    cursor: pointer; /* Curseur de pointeur au survol */
+}
+

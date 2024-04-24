@@ -1,0 +1,12 @@
+/* Dans votre fichier CSS (pop_up.css) */
+.id-column {
+    font-weight: bold; /* Mettre en gras */
+    color: #FF5733; /* Changer la couleur du texte */
+}
+
+.scrollable-table {
+    display: block;
+    max-height: 400px; /* Ajustez cette valeur selon vos besoins */
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
